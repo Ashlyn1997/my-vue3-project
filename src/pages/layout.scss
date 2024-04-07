@@ -1,0 +1,20 @@
+.content-wrapper {
+  height: 100vh;
+  background-color: #F9FAF2;
+}
+
+.header {
+  height: 80rpx;
+  font-family: 'songti';
+  font-size: 40rpx;
+  text-align: center;
+  line-height: 80rpx;
+}
+
+@font-face {
+  font-family: 'songti';
+  font-weight: 300;
+  src: url('../static/fonts/Oe9wKbUJ3Q0h.woff2') format('woff2'),
+    url('../static/fonts/Oe9wKbUJ3Q0h.woff') format('woff');
+  font-display: swap;
+}
